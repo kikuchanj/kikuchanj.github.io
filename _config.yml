@@ -1,0 +1,46 @@
+highlighter: rouge
+gems: [jekyll-paginate]
+encoding: utf-8
+paginate: 8
+paginate_path: "page:num"
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+name: kikuchanj
+bio: kikuchanj.com
+url: https://www.kikuchanj.com/
+email: admin@kikuchanj.com
+logo: "/assets/img/def/logo.jpg"
+fav: "/favicon.ico"
+title: kikuchanj
+description: kikuchanj
+
+defaults:
+ -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_ad: true
+
+navs:
+  - 
+    href: /default.html
+    label: 主页
+  - 
+    href: http://weibo.com、3669102477
+    label: 微博
+  -
+    href: /archives
+    label: 归档
+  - 
+    href: /about
+    label: 关于
+
+# ---------------- #
+#      Socials     #
+# ---------------- #
+github_id: jujingyi
+weibo_id: 3669102477
