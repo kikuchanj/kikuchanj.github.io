@@ -1,6 +1,6 @@
 ---
 title: Hello Kikuchanj
-category: 随笔
+category: read
 excerpt: Hello Kikuchanj……
 ---
 
@@ -10,10 +10,3 @@ excerpt: Hello Kikuchanj……
 </iframe>
 </center>
 {:/nomarkdown}
-
-
-
-Hello Kikuchanj
-
-未完待续...
-
