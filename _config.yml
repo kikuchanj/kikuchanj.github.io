@@ -32,6 +32,9 @@ navs:
   - 
     href: http://weibo.com/3669102477
     label: 微博
+  - 
+    href: /mp3
+    label: 唱吧
   -
     href: /archives
     label: 归档
